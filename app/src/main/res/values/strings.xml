@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="lbl_description">Description</string>
+    <string name="lbl_skills">Abilities</string>
+    <string name="lbl_hp">HP</string>
+    <string name="lbl_speed">Speed</string>
+    <string name="lbl_attack">Attack</string>
+    <string name="lbl_defense">Defense</string>
+</resources>

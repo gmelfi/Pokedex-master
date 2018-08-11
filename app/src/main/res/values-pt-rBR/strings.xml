@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="title_activity_detail">Detalhe</string>
+    <string name="lbl_description">Descrição</string>
+    <string name="lbl_skills">Habilidades</string>
+    <string name="lbl_hp">HP</string>
+    <string name="lbl_speed">Velocidade</string>
+    <string name="lbl_attack">Ataque</string>
+    <string name="lbl_defense">Defesa</string>
+</resources>
